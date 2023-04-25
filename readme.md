@@ -4,7 +4,7 @@
 
 # Installation
 ```bash
-conda create -n robustpca python=3.9
-conda activate robustpca
+conda create -n ircur-hobbit python=3.9
+conda activate ircur-hobbit
 conda install jupyter numpy pandas matplotlib opencv-python
 ```
